@@ -1,0 +1,15 @@
+{
+  "name": "spencio-plugins",
+  "description": "Spencio expense tracker plugins for Claude Code.",
+  "owner": {
+    "name": "Blocmind Technologies",
+    "email": "support@blocmind.com"
+  },
+  "plugins": [
+    {
+      "name": "spencio",
+      "source": "./plugins/spencio",
+      "description": "Spencio expense tracker in Claude Code (MCP mode)."
+    }
+  ]
+}

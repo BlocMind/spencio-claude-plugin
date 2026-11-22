@@ -1,0 +1,22 @@
+{
+  "name": "spencio",
+  "displayName": "Spencio",
+  "version": "1.1.0",
+  "description": "Use your Spencio expense tracker from Claude Code: ask about spending, budgets and subscriptions, and add, edit or recategorize transactions. The data stays on your phone; Spencio's MCP mode answers each request while it's open.",
+  "author": {
+    "name": "Blocmind Technologies",
+    "email": "support@blocmind.com",
+    "url": "https://spencio.blocmind.tech"
+  },
+  "homepage": "https://spencio.blocmind.tech/ai-assistants",
+  "repository": "https://github.com/BlocMind/spencio-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "spencio",
+    "expenses",
+    "budget",
+    "finance",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://spencio.blocmind.tech/privacy/ai-assistants"
+}

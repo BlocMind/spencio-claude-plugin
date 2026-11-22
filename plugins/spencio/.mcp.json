@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spencio": {
+      "type": "http",
+      "url": "https://spencio.blocmind.com/mcp"
+    }
+  }
+}
